@@ -1,0 +1,87 @@
+{
+	"assetId": "veimacqs",
+	"assetName": "Patchy_Moss_veimacqs",
+	"assetType": "surface",
+	"assetSubType": "",
+	"assetTier": 3,
+	"assetRootPath": "/Game/Megascans/Surfaces/Patchy_Moss_veimacqs",
+	"meshList": [],
+	"foliageAssetPaths": [],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Patchy_Moss_veimacqs_1K",
+			"instancePath": "/Game/Megascans/Surfaces/Patchy_Moss_veimacqs/MI_Patchy_Moss_veimacqs_1K.MI_Patchy_Moss_veimacqs_1K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": [
+				{
+					"paramName": "albedo",
+					"usedTextureId": "tex2"
+				},
+				{
+					"paramName": "normal",
+					"usedTextureId": "tex3"
+				},
+				{
+					"paramName": "ARD",
+					"usedTextureId": "tex1"
+				}
+			]
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ARD",
+			"resolution": "1K",
+			"name": "T_PatchyMoss_veimacqs_1K_ORDp",
+			"path": "/Game/Megascans/Surfaces/Patchy_Moss_veimacqs/T_PatchyMoss_veimacqs_1K_ORDp.T_PatchyMoss_veimacqs_1K_ORDp",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "1K",
+			"name": "T_Patchy_Moss_veimacqs_1K_D",
+			"path": "/Game/Megascans/Surfaces/Patchy_Moss_veimacqs/T_Patchy_Moss_veimacqs_1K_D.T_Patchy_Moss_veimacqs_1K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "1K",
+			"name": "T_Patchy_Moss_veimacqs_1K_N",
+			"path": "/Game/Megascans/Surfaces/Patchy_Moss_veimacqs/T_Patchy_Moss_veimacqs_1K_N.T_Patchy_Moss_veimacqs_1K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Surface_Material",
+			"path": "/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material"
+		}
+	]
+}

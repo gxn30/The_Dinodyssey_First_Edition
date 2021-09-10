@@ -1,0 +1,173 @@
+{
+	"assetId": "qmBrl",
+	"assetName": "Leafy_Dandelions_qmBrl",
+	"assetType": "3dplant",
+	"assetSubType": "multipleMesh",
+	"assetTier": 3,
+	"assetRootPath": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl",
+	"meshList": [
+		{
+			"meshId": "mesh2",
+			"name": "S_Leafy_Dandelions_qmBrl_Var1_lod3",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/S_Leafy_Dandelions_qmBrl_Var1_lod3.S_Leafy_Dandelions_qmBrl_Var1_lod3",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh4",
+			"name": "S_Leafy_Dandelions_qmBrl_Var2_lod3",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/S_Leafy_Dandelions_qmBrl_Var2_lod3.S_Leafy_Dandelions_qmBrl_Var2_lod3",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh6",
+			"name": "S_Leafy_Dandelions_qmBrl_Var3_lod3",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/S_Leafy_Dandelions_qmBrl_Var3_lod3.S_Leafy_Dandelions_qmBrl_Var3_lod3",
+			"numberOfLods": 1,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [
+		"/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/Foliage/FT_Leafy_Dandelions_qmBrl_Var1_lod3.FT_Leafy_Dandelions_qmBrl_Var1_lod3",
+		"/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/Foliage/FT_Leafy_Dandelions_qmBrl_Var2_lod3.FT_Leafy_Dandelions_qmBrl_Var2_lod3",
+		"/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/Foliage/FT_Leafy_Dandelions_qmBrl_Var3_lod3.FT_Leafy_Dandelions_qmBrl_Var3_lod3"
+	],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Leafy_Dandelions_qmBrl_1K",
+			"instancePath": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/MI_Leafy_Dandelions_qmBrl_1K.MI_Leafy_Dandelions_qmBrl_1K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": []
+		},
+		{
+			"instanceId": "mat2",
+			"instanceName": "MI_Leafy_Dandelions_qmBrl_Billboard_1K",
+			"instancePath": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/MI_Leafy_Dandelions_qmBrl_Billboard_1K.MI_Leafy_Dandelions_qmBrl_Billboard_1K",
+			"instanceMaster": "master2",
+			"type": "materialInstance",
+			"params": []
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "ORT",
+			"resolution": "1K",
+			"name": "T_LeafyDandelions_qmBrl_1K_ART",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/T_LeafyDandelions_qmBrl_1K_ART.T_LeafyDandelions_qmBrl_1K_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "1K",
+			"name": "T_Leafy_Dandelions_qmBrl_1K_D",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/T_Leafy_Dandelions_qmBrl_1K_D.T_Leafy_Dandelions_qmBrl_1K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "1K",
+			"name": "T_Leafy_Dandelions_qmBrl_1K_N",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/T_Leafy_Dandelions_qmBrl_1K_N.T_Leafy_Dandelions_qmBrl_1K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		},
+		{
+			"textureId": "tex1",
+			"type": "PackTexture",
+			"resolution": "1K",
+			"name": "T_LeafyDandelions_qmBrl_1K_billboard_ART",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/T_LeafyDandelions_qmBrl_1K_billboard_ART.T_LeafyDandelions_qmBrl_1K_billboard_ART",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "",
+			"name": "T_Leafy_Dandelions_qmBrl_Billboard_D",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/T_Leafy_Dandelions_qmBrl_Billboard_D.T_Leafy_Dandelions_qmBrl_Billboard_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "",
+			"name": "T_Leafy_Dandelions_qmBrl_Billboard_N",
+			"path": "/Game/Megascans/3D_Plants/Leafy_Dandelions_qmBrl/T_Leafy_Dandelions_qmBrl_Billboard_N.T_Leafy_Dandelions_qmBrl_Billboard_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Foliage_Material",
+			"path": "/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+		},
+		{
+			"masterId": "master2",
+			"masterMaterialName": "M_MS_Foliage_Material",
+			"path": "/Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material"
+		}
+	]
+}

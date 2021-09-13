@@ -3,3 +3,8 @@
 [0803/110414.962:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0803/110415.495:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0803/110415.496:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0913/164951.558:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 45
+[0913/165017.560:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0913/165017.560:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0913/165017.584:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0913/165017.584:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}

@@ -1,0 +1,17 @@
+Dino_Project_V1/Binaries/Win64/Dino_Project_V1-Win64-Shipping.exe	2021-11-08T12:27:29.303Z
+Dino_Project_V1/Binaries/Win64/turbojpeg.dll	2021-06-06T13:54:45.898Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2021-06-06T13:34:53.316Z
+Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-06-06T13:20:59.136Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-06-06T13:19:01.031Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2021-06-06T13:20:59.140Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2021-06-06T13:22:36.202Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-06-06T13:22:36.202Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-06-06T13:20:55.681Z
+Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-06-06T13:20:59.166Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2021-06-06T13:21:22.769Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2021-06-06T13:21:23.016Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll	2021-06-06T13:21:16.884Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll	2021-06-06T13:21:20.632Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll	2021-06-06T13:21:18.618Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-06-06T13:22:39.768Z
+Dino_Project_V1.exe	2021-11-08T14:14:56.522Z

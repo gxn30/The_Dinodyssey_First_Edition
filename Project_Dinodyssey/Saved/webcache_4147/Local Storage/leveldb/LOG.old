@@ -1,3 +1,6 @@
-2021/10/31-12:13:51.516 2f38 Reusing MANIFEST D:/Documents/The_Dinodyssey_First_Edition/The_Dinodyssey_First_Edition/Project_Dinodyssey/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2021/10/31-12:13:51.535 2f38 Recovering log #4
-2021/10/31-12:13:51.553 2f38 Reusing old log D:/Documents/The_Dinodyssey_First_Edition/The_Dinodyssey_First_Edition/Project_Dinodyssey/Saved/webcache_4147\Local Storage\leveldb/000004.log 
+2021/11/01-11:40:43.837 5164 Reusing MANIFEST D:/Documents/The_Dinodyssey_First_Edition/The_Dinodyssey_First_Edition/Project_Dinodyssey/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2021/11/01-11:40:43.838 5164 Recovering log #4
+2021/11/01-11:40:43.862 5164 Reusing old log D:/Documents/The_Dinodyssey_First_Edition/The_Dinodyssey_First_Edition/Project_Dinodyssey/Saved/webcache_4147\Local Storage\leveldb/000004.log 
+2021/11/01-11:47:11.833 1970 Level-0 table #8: started
+2021/11/01-11:47:11.836 1970 Level-0 table #8: 14024 bytes OK
+2021/11/01-11:47:11.837 1970 Delete type=0 #4

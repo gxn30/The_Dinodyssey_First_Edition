@@ -1,4 +1,4 @@
-Dino_Project_V1/Binaries/Win64/Dino_Project_V1-Win64-Shipping.exe	2021-11-18T23:51:57.316Z
+Dino_Project_V1/Binaries/Win64/Dino_Project_V1-Win64-Shipping.exe	2021-11-25T14:39:37.528Z
 Dino_Project_V1/Binaries/Win64/turbojpeg.dll	2021-06-06T13:54:45.898Z
 Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2021-06-06T13:34:53.316Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-06-06T13:20:59.136Z
@@ -14,4 +14,4 @@ Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll	2021-06-06T13:21:1
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll	2021-06-06T13:21:20.632Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll	2021-06-06T13:21:18.618Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-06-06T13:22:39.768Z
-Dino_Project_V1.exe	2021-11-18T23:55:10.789Z
+Dino_Project_V1.exe	2021-11-25T14:42:57.392Z

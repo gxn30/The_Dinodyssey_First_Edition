@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Dino_Project_V1",
+			"Path": "D:\\Documents\\The_Dinodyssey_First_Edition\\The_Dinodyssey_First_Edition\\Project_Dinodyssey\\Source\\Dino_Project_V1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Dino_Project_V1Editor",
+			"Path": "D:\\Documents\\The_Dinodyssey_First_Edition\\The_Dinodyssey_First_Edition\\Project_Dinodyssey\\Source\\Dino_Project_V1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

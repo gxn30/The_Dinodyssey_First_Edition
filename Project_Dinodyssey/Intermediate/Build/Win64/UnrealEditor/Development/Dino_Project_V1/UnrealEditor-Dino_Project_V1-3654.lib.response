@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Dino_Project_V1-3654.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\Dino_Project_V1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealEditor\Development\Dino_Project_V1\Dino_Project_V1.cpp.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealEditor\Development\Dino_Project_V1\MyGameInstance.cpp.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealEditor\Development\Dino_Project_V1\Dino_Project_V1.init.gen.cpp.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealEditor\Development\Dino_Project_V1\MyGameInstance.gen.cpp.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealEditor\Development\Dino_Project_V1\Default.rc2.res"
+/OUT:"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealEditor\Development\Dino_Project_V1\UnrealEditor-Dino_Project_V1-3654.lib"
+/INCLUDE:IMPLEMENT_MODULE_Dino_Project_V1

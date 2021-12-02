@@ -1,7 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Documents\\The_Dinodyssey_First_Edition\\The_Dinodyssey_First_Edition\\Project_Dinodyssey\\Intermediate\\Source\\Dino_Project_V1.Build.cs",
-		"D:\\Documents\\The_Dinodyssey_First_Edition\\The_Dinodyssey_First_Edition\\Project_Dinodyssey\\Intermediate\\Source\\Dino_Project_V1.Target.cs"
+		"D:\\Documents\\The_Dinodyssey_First_Edition\\The_Dinodyssey_First_Edition\\Project_Dinodyssey\\Source\\Dino_Project_V1\\Dino_Project_V1.Build.cs",
+		"D:\\Documents\\The_Dinodyssey_First_Edition\\The_Dinodyssey_First_Edition\\Project_Dinodyssey\\Source\\Dino_Project_V1.Target.cs",
+		"D:\\Documents\\The_Dinodyssey_First_Edition\\The_Dinodyssey_First_Edition\\Project_Dinodyssey\\Source\\Dino_Project_V1Editor.Target.cs"
 	],
 	"EngineVersion": "5.0.0"
 }

@@ -110,7 +110,7 @@ Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bResetSimulationOnChange:0=T
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bResimulateOnChangeWhilePaused:0=True
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bResetDependentSystemsWhenEditingEmitters:0=False
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:bDisplayAdvancedParameterPanelCategories:0=False
-Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:NewAssetDialogConfigMap:0=(("NiagaraEmitter", (WindowSize=(X=451.200012,Y=606.000000))),("NiagaraSystem", (SelectedOptionIndex=3,WindowSize=(X=452.399994,Y=612.000000))))
+Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:NewAssetDialogConfigMap:0=(("NiagaraEmitter", (WindowSize=(X=451.200012,Y=606.000000))),("NiagaraSystem", (SelectedOptionIndex=3,WindowSize=(X=453.600006,Y=618.000000))))
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:DefaultScript:0=/Niagara/DefaultAssets/DefaultModule.DefaultModule
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:DefaultDynamicInputScript:0=/Niagara/DefaultAssets/DefaultDynamicInputs.DefaultDynamicInputs
 Niagara:/Script/NiagaraEditor.NiagaraEditorSettings:DefaultFunctionScript:0=/Niagara/DefaultAssets/DefaultFunction.DefaultFunction
@@ -833,6 +833,8 @@ Input:/Script/Engine.InputSettings:bCaptureMouseOnLaunch:0=True
 Input:/Script/Engine.InputSettings:bUseAutocorrect:0=False
 Input:/Script/Engine.InputSettings:DefaultViewportMouseCaptureMode:0=CapturePermanently_IncludingInitialMouseDown
 Input:/Script/Engine.InputSettings:DefaultViewportMouseLockMode:0=LockOnCapture
+Input:/Script/Engine.InputSettings:DefaultPlayerInputClass:0=/Script/Engine.PlayerInput
+Input:/Script/Engine.InputSettings:DefaultInputComponentClass:0=/Script/Engine.InputComponent
 Input:/Script/EngineSettings.ConsoleSettings:MaxScrollbackSize:0=1024
 Input:/Script/EngineSettings.ConsoleSettings:BackgroundOpacityPercentage:0=85.000000
 Input:/Script/EngineSettings.ConsoleSettings:InputColor:0=(R=230,G=230,B=230,A=255)
@@ -1222,10 +1224,10 @@ OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=4
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
 WorldSettingVer:1ED048F42F2E4C6889D053A4F18F102D=1
+NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
-NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 Water:40D2FBA74B484CE5B0385A75884E499E=7
 ClothConfigNvVer:9950B70EB41A4E17BBCCFA0D57817FD6=1
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17

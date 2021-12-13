@@ -285,6 +285,36 @@
 			}
 		},
 		{
+			"File": "../../../Dino_Project_V1/Plugins/Victory/VictoryBPLibrary.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "VictoryBPLibrary",
+				"Description": "Joy!",
+				"Category": "Rama",
+				"CreatedBy": "Rama",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"EngineVersion": "5.0.0",
+				"CanContainContent": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "VictoryBPLibrary",
+						"Type": "Runtime",
+						"LoadingPhase": "PreLoadingScreen",
+						"WhitelistPlatforms": [
+							"Win64"
+						]
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{

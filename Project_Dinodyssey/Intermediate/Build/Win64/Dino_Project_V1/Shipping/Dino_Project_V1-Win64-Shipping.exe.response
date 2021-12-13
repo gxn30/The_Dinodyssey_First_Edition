@@ -101,6 +101,9 @@
 "D:\unreal\UE_5.0EA\Engine\Plugins\Experimental\GeometryProcessing\Intermediate\Build\Win64\UnrealGame\Shipping\DynamicMesh\Module.DynamicMesh.2_of_3.cpp.obj"
 "D:\unreal\UE_5.0EA\Engine\Plugins\Experimental\GeometryProcessing\Intermediate\Build\Win64\UnrealGame\Shipping\DynamicMesh\Module.DynamicMesh.3_of_3.cpp.obj"
 "D:\unreal\UE_5.0EA\Engine\Plugins\Experimental\GeometryProcessing\Intermediate\Build\Win64\UnrealGame\Shipping\MeshConversion\Module.MeshConversion.cpp.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\Dino_Project_V1\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Plugins\Victory\Intermediate\Build\Win64\UnrealGame\Shipping\VictoryBPLibrary\Module.VictoryBPLibrary.cpp.obj"
+"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Plugins\Victory\Intermediate\Build\Win64\UnrealGame\Shipping\VictoryBPLibrary\Module.VictoryBPLibrary.gen.cpp.obj"
 "D:\unreal\UE_5.0EA\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UnrealGame\Shipping\Paper2D\Module.Paper2D.cpp.obj"
 "D:\unreal\UE_5.0EA\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UnrealGame\Shipping\Paper2D\Module.Paper2D.gen.cpp.obj"
 "D:\unreal\UE_5.0EA\Engine\Plugins\AI\AISupport\Intermediate\Build\Win64\UnrealGame\Shipping\AISupportModule\AISupportModule.cpp.obj"
@@ -290,7 +293,6 @@
 "D:\unreal\UE_5.0EA\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UnrealGame\Shipping\WebMMedia\Module.WebMMedia.cpp.obj"
 "D:\unreal\UE_5.0EA\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UnrealGame\Shipping\WebMMediaFactory\WebMMediaFactoryModule.cpp.obj"
 "D:\unreal\UE_5.0EA\Engine\Plugins\Runtime\WindowsMoviePlayer\Intermediate\Build\Win64\UnrealGame\Shipping\WindowsMoviePlayer\Module.WindowsMoviePlayer.cpp.obj"
-"D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\Dino_Project_V1\Shipping\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealGame\Shipping\Dino_Project_V1\Dino_Project_V1.cpp.obj"
 "D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealGame\Shipping\Dino_Project_V1\MyGameInstance.cpp.obj"
 "D:\Documents\The_Dinodyssey_First_Edition\The_Dinodyssey_First_Edition\Project_Dinodyssey\Intermediate\Build\Win64\UnrealGame\Shipping\Dino_Project_V1\Dino_Project_V1.init.gen.cpp.obj"
@@ -995,6 +997,7 @@
 /INCLUDE:IMPLEMENT_MODULE_GeometryAlgorithms
 /INCLUDE:IMPLEMENT_MODULE_DynamicMesh
 /INCLUDE:IMPLEMENT_MODULE_MeshConversion
+/INCLUDE:IMPLEMENT_MODULE_VictoryBPLibrary
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
 /INCLUDE:IMPLEMENT_MODULE_AISupportModule
 /INCLUDE:IMPLEMENT_MODULE_GameplayCameras

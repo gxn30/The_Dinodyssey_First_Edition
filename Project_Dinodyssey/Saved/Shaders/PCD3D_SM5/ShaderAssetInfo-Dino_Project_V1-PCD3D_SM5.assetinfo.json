@@ -261,12 +261,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6F37C3F960CA2CE6B112B3C9DBB51A1C64F70B46",
+			"ShaderMapHash": "DDF38DE7B88620D4807205058C7462B9B945560A",
 			"Assets": [
-				"/Game/FirstPerson/Character/Materials/M_UE4Man_Body",
-				"/Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Materials/M_UE4Man_Body",
-				"/Game/PN_coniferBushes_I/UE4_ThirdPerson/Mannequin/Character/Materials/M_UE4Man_Body",
-				"/Game/A_Surface_Footstep/Mannequin/Character/Materials/M_UE4Man_Body"
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -276,21 +273,18 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DDF38DE7B88620D4807205058C7462B9B945560A",
+			"ShaderMapHash": "6F37C3F960CA2CE6B112B3C9DBB51A1C64F70B46",
 			"Assets": [
-				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+				"/Game/FirstPerson/Character/Materials/M_UE4Man_Body",
+				"/Game/PN_interactiveSpruceForest/UE4_Mannequin/Mannequin/Character/Materials/M_UE4Man_Body",
+				"/Game/PN_coniferBushes_I/UE4_ThirdPerson/Mannequin/Character/Materials/M_UE4Man_Body",
+				"/Game/A_Surface_Footstep/Mannequin/Character/Materials/M_UE4Man_Body"
 			]
 		},
 		{
 			"ShaderMapHash": "AFE1639021AD8547722390B79FF8068435877FA5",
 			"Assets": [
 				"/Game/1_dierenOverig/kever/mat_kever"
-			]
-		},
-		{
-			"ShaderMapHash": "C71ACF215696490EDFF1BCD173D8FC2B412213E9",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_DirectionalDust"
 			]
 		},
 		{
@@ -304,6 +298,12 @@
 			"Assets": [
 				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_ThickSmoke",
 				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_EnergySmoke"
+			]
+		},
+		{
+			"ShaderMapHash": "C71ACF215696490EDFF1BCD173D8FC2B412213E9",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_DirectionalDust"
 			]
 		},
 		{
@@ -343,15 +343,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E572ED376678EF5E6360CCBED8B238ABB252EB7F",
+			"ShaderMapHash": "02133826EA2DDFB645305078E3091CE701AE8806",
 			"Assets": [
-				"/Game/1_import/voetstappen/lambert2"
+				"/Engine/EngineSky/M_SkyTimeOfDay"
 			]
 		},
 		{
-			"ShaderMapHash": "653A7D13AA8FDF8B9563DF6CBF150D013DFA6E67",
+			"ShaderMapHash": "9E7D78924DDC1377A4CB94CB07CA196ED928FEDB",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material"
+				"/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
 			]
 		},
 		{
@@ -361,9 +361,72 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9E7D78924DDC1377A4CB94CB07CA196ED928FEDB",
+			"ShaderMapHash": "653A7D13AA8FDF8B9563DF6CBF150D013DFA6E67",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Billboard_Material/M_MS_Billboard_Material"
+				"/Game/MSPresets/M_MS_Default_Fuzz_Material/M_MS_Default_Fuzz_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "837D3856C1AB68DEBAD52E60A6F94DED324F92BF",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Water_Material",
+				"/Water/Materials/WaterSurface/Water_Material_Inst",
+				"/Water/Materials/WaterSurface/Water_Material_Lake"
+			]
+		},
+		{
+			"ShaderMapHash": "F0EC2FB84905333E6BAEF114CE4A4657C0AC9F22",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Water_Material_River_Misha",
+				"/Water/Materials/WaterSurface/Water_Material_River"
+			]
+		},
+		{
+			"ShaderMapHash": "F114AA56EB251EC68A2E48563B56836188CB7BB1",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_Waterfall_Foam"
+			]
+		},
+		{
+			"ShaderMapHash": "8BE2DBD3A36FB065DE833120EBA8579E904C0BF5",
+			"Assets": [
+				"/Game/particles/particle_ster_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BF16E0825B199006DA0428D3B92ACE2ED93CCAA5",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Transitions/Water_Material_River_To_Ocean_Transition"
+			]
+		},
+		{
+			"ShaderMapHash": "A286F4902FE4EC479C5C50869E1AF5917A58D860",
+			"Assets": [
+				"/Game/particles/e_mat_test2"
+			]
+		},
+		{
+			"ShaderMapHash": "A1AACBF0A4F57DF3FCBFFDA58ABFD97F3C036B3E",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "749352757044E18E7E5F8D488E64AC73BF7A96B5",
+			"Assets": [
+				"/Game/1_import/gekkeShrubs/shrubMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E572ED376678EF5E6360CCBED8B238ABB252EB7F",
+			"Assets": [
+				"/Game/1_import/voetstappen/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "9A2EC64E1F27C0FEFD7AE825959E305A736E8F94",
+			"Assets": [
+				"/Engine/EngineMeshes/M_Mat_UnrealTech"
 			]
 		},
 		{
@@ -391,48 +454,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "837D3856C1AB68DEBAD52E60A6F94DED324F92BF",
-			"Assets": [
-				"/Water/Materials/WaterSurface/Water_Material",
-				"/Water/Materials/WaterSurface/Water_Material_Inst",
-				"/Water/Materials/WaterSurface/Water_Material_Lake"
-			]
-		},
-		{
-			"ShaderMapHash": "F0EC2FB84905333E6BAEF114CE4A4657C0AC9F22",
-			"Assets": [
-				"/Water/Materials/WaterSurface/Water_Material_River",
-				"/Water/Materials/WaterSurface/Water_Material_River_Misha"
-			]
-		},
-		{
 			"ShaderMapHash": "1A9E825A98035246A72052DEBAF5E8DCF7BE27B8",
 			"Assets": [
 				"/Water/Materials/WaterSurface/Transitions/Water_Material_River_To_Lake_Transition"
 			]
 		},
 		{
-			"ShaderMapHash": "8BE2DBD3A36FB065DE833120EBA8579E904C0BF5",
-			"Assets": [
-				"/Game/particles/particle_ster_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "F114AA56EB251EC68A2E48563B56836188CB7BB1",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_Waterfall_Foam"
-			]
-		},
-		{
 			"ShaderMapHash": "C5455563E098F92FD424088AB9F744D3D2BFE851",
 			"Assets": [
 				"/Game/WaterMaterials/Materials/M_WaterSplash"
-			]
-		},
-		{
-			"ShaderMapHash": "A1AACBF0A4F57DF3FCBFFDA58ABFD97F3C036B3E",
-			"Assets": [
-				"/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material"
 			]
 		},
 		{
@@ -497,31 +527,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7F0E2813074EFC748F8B96C03D79D481C3924E3A",
-			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Imposter"
-			]
-		},
-		{
-			"ShaderMapHash": "3479218214606AD831B7C98912254837201CE2F7",
-			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_02_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_03_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_01_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_01_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_01_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_02_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_03_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_04_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_01_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_03_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_04_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_03_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_02_imposter",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_02_imposter"
-			]
-		},
-		{
 			"ShaderMapHash": "3DCBF426B606D22893A91ADBBB9F0FC075F7E80D",
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Summer"
@@ -532,10 +537,10 @@
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_MA",
 				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_MA",
 				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_MA"
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_MA"
 			]
 		},
 		{
@@ -543,40 +548,35 @@
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_02_low_branch",
 				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_03_low_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_branch",
 				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_03_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_branch"
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_02_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/high/spruce_full_01_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/full/low/spruce_full_01_low_branch"
 			]
 		},
 		{
-			"ShaderMapHash": "A286F4902FE4EC479C5C50869E1AF5917A58D860",
+			"ShaderMapHash": "7F0E2813074EFC748F8B96C03D79D481C3924E3A",
 			"Assets": [
-				"/Game/particles/e_mat_test2"
+				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_Imposter"
 			]
 		},
 		{
-			"ShaderMapHash": "749352757044E18E7E5F8D488E64AC73BF7A96B5",
+			"ShaderMapHash": "3479218214606AD831B7C98912254837201CE2F7",
 			"Assets": [
-				"/Game/1_import/gekkeShrubs/shrubMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "BF16E0825B199006DA0428D3B92ACE2ED93CCAA5",
-			"Assets": [
-				"/Water/Materials/WaterSurface/Transitions/Water_Material_River_To_Ocean_Transition"
-			]
-		},
-		{
-			"ShaderMapHash": "02133826EA2DDFB645305078E3091CE701AE8806",
-			"Assets": [
-				"/Engine/EngineSky/M_SkyTimeOfDay"
-			]
-		},
-		{
-			"ShaderMapHash": "9A2EC64E1F27C0FEFD7AE825959E305A736E8F94",
-			"Assets": [
-				"/Engine/EngineMeshes/M_Mat_UnrealTech"
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_02_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_04_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_02_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/full_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/full_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_02_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_03_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/high/half_04_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_01_imposter",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/imposter/low/half_02_imposter"
 			]
 		},
 		{
@@ -760,6 +760,48 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D205B5021C7E3D44335D103DB792877F58016D94",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_PondScum"
+			]
+		},
+		{
+			"ShaderMapHash": "FE91B836D24774142C0523CC5CE8B2885E2AA1AF",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_PondScum_Cheaper"
+			]
+		},
+		{
+			"ShaderMapHash": "61BE3DE4A70D8B4DC9C3BDF5D5CEA6636C4BA659",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_Riverbank"
+			]
+		},
+		{
+			"ShaderMapHash": "34E90852C4AAC0A26EE2ABEBC31C6D541C711EB8",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_River_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "CBFFB7640378D4E6D87E128921EF6FAF2241B384",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_Sand"
+			]
+		},
+		{
+			"ShaderMapHash": "F29E4C002FC3B3088DEDB322CB8F00E3693236CA",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_Rapids"
+			]
+		},
+		{
+			"ShaderMapHash": "1F0314D7A00E48DAD7CB9920F1FEE5CD87663295",
+			"Assets": [
+				"/Game/WaterMaterials/Materials/M_RapidsBank"
+			]
+		},
+		{
 			"ShaderMapHash": "9151B554043F68BC068B1B36BB91F8E1A2B3AE3D",
 			"Assets": [
 				"/Game/1_map/map_campanien_v1",
@@ -865,48 +907,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D205B5021C7E3D44335D103DB792877F58016D94",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_PondScum"
-			]
-		},
-		{
-			"ShaderMapHash": "FE91B836D24774142C0523CC5CE8B2885E2AA1AF",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_PondScum_Cheaper"
-			]
-		},
-		{
-			"ShaderMapHash": "61BE3DE4A70D8B4DC9C3BDF5D5CEA6636C4BA659",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_Riverbank"
-			]
-		},
-		{
-			"ShaderMapHash": "34E90852C4AAC0A26EE2ABEBC31C6D541C711EB8",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_River_Rock"
-			]
-		},
-		{
-			"ShaderMapHash": "CBFFB7640378D4E6D87E128921EF6FAF2241B384",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_Sand"
-			]
-		},
-		{
-			"ShaderMapHash": "F29E4C002FC3B3088DEDB322CB8F00E3693236CA",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_Rapids"
-			]
-		},
-		{
-			"ShaderMapHash": "1F0314D7A00E48DAD7CB9920F1FEE5CD87663295",
-			"Assets": [
-				"/Game/WaterMaterials/Materials/M_RapidsBank"
-			]
-		},
-		{
 			"ShaderMapHash": "F4A9C7596A485CBE223A9420212EF6D09F314174",
 			"Assets": [
 				"/Game/testLevels/materials/test_m_landschap"
@@ -916,13 +916,6 @@
 			"ShaderMapHash": "2D4260BD836FEA644A87ADC225F354559D8160E5",
 			"Assets": [
 				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "D45240A5F08418F160EB4C776930EC779AC1CC51",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall",
-				"/Game/A_Surface_Footstep/Environment_Assets/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -1061,6 +1054,13 @@
 			"ShaderMapHash": "0468CD246D2EDF053E223948B62AA4786D7413A3",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "D45240A5F08418F160EB4C776930EC779AC1CC51",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall",
+				"/Game/A_Surface_Footstep/Environment_Assets/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -1246,16 +1246,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0CA120CF3A486267A16B83A57B63BB67D1556027",
+			"ShaderMapHash": "0DC69B29B33AAB5CD755BD63A54F4C87F8516CBB",
 			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid",
-				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
-			]
-		},
-		{
-			"ShaderMapHash": "6C1017D2BDA752C73940D22061935520F250BCAA",
-			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
 			]
 		},
 		{
@@ -1265,15 +1258,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0DC69B29B33AAB5CD755BD63A54F4C87F8516CBB",
+			"ShaderMapHash": "6C1017D2BDA752C73940D22061935520F250BCAA",
 			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
 			]
 		},
 		{
 			"ShaderMapHash": "D51247EB76D1EE7BFF15C56C7708F167831B2FE9",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "0CA120CF3A486267A16B83A57B63BB67D1556027",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid",
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
 			]
 		},
 		{
@@ -1295,15 +1295,75 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BF8FCDF4B0724C38D42B10BC476FC7DD0C4E6B9E",
+			"ShaderMapHash": "EB14EA952BFB1B9C7FABEEE121EFEF15FA731F48",
 			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer"
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_06_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_05_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_07_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "A8F72697FDE29357AC367DD2CE4D0CD207BFEFFC",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_06_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_05_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_07_branch"
+			]
+		},
+		{
+			"ShaderMapHash": "7CABB3DFA45E59E0FEB31969875231D39F4C9B1A",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "50ED2D5CA39423F232E5B3E5FE5D4FEF2775E987",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_trunk",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "0E123567D23D7B127F91CE1230B5D98D5A3E3AAF",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_MA",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_MA"
+			]
+		},
+		{
+			"ShaderMapHash": "DFDCEBBC77A3F9DF31DB5C7ED1149FB7C2F9C155",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_branch",
+				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_branch"
 			]
 		},
 		{
 			"ShaderMapHash": "DCA4E4BB2CF01017B6987C2F3F992712B6B11FE5",
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundWinter"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8FCDF4B0724C38D42B10BC476FC7DD0C4E6B9E",
+			"Assets": [
+				"/Game/PN_interactiveSpruceForest/Materials/MasterMaterials/MA_GroundSummer"
 			]
 		},
 		{
@@ -1422,63 +1482,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EB14EA952BFB1B9C7FABEEE121EFEF15FA731F48",
+			"ShaderMapHash": "F3AAE57C016B4ACEC9AEDA0A490E85E97411BB49",
 			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_07_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_06_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_05_MA"
+				"/Game/testLevels/test1_customMap"
 			]
 		},
 		{
-			"ShaderMapHash": "A8F72697FDE29357AC367DD2CE4D0CD207BFEFFC",
+			"ShaderMapHash": "59CE9694FD02E3A462DDADD24422523962F77F33",
 			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_07_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_06_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_05_branch"
+				"/Game/testLevels/test1_customMap"
 			]
 		},
 		{
-			"ShaderMapHash": "0E123567D23D7B127F91CE1230B5D98D5A3E3AAF",
+			"ShaderMapHash": "007DC7C2CF32F5F9BF363D4F11E8CA1AAF124559",
 			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_MA"
-			]
-		},
-		{
-			"ShaderMapHash": "DFDCEBBC77A3F9DF31DB5C7ED1149FB7C2F9C155",
-			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_01_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_02_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_03_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/high/spruce_half_04_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_01_low_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_03_low_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_04_low_branch",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/half/low/spruce_half_02_low_branch"
-			]
-		},
-		{
-			"ShaderMapHash": "7CABB3DFA45E59E0FEB31969875231D39F4C9B1A",
-			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_MA",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_MA"
-			]
-		},
-		{
-			"ShaderMapHash": "50ED2D5CA39423F232E5B3E5FE5D4FEF2775E987",
-			"Assets": [
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_04_trunk",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_03_trunk",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_02_trunk",
-				"/Game/PN_interactiveSpruceForest/Materials/MaterialInstances/small/spruce_small_01_trunk"
+				"/Game/testLevels/test1_customMap"
 			]
 		},
 		{
@@ -1486,21 +1504,6 @@
 			"Assets": [
 				"/Game/PN_interactiveSpruceForest/Map/Showroom",
 				"/Game/PN_interactiveSpruceForest/Map/Interaction_Showroom"
-			]
-		},
-		{
-			"ShaderMapHash": "BFB6F3C105C39089AF9A1766ADD5084B8C5C46A5",
-			"Assets": [
-				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_01",
-				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_02",
-				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_03",
-				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_04"
-			]
-		},
-		{
-			"ShaderMapHash": "B4FA40231D563B28614EDE87EFB0267B37FB85A5",
-			"Assets": [
-				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_05"
 			]
 		},
 		{
@@ -1525,24 +1528,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F3AAE57C016B4ACEC9AEDA0A490E85E97411BB49",
-			"Assets": [
-				"/Game/testLevels/test1_customMap"
-			]
-		},
-		{
-			"ShaderMapHash": "59CE9694FD02E3A462DDADD24422523962F77F33",
-			"Assets": [
-				"/Game/testLevels/test1_customMap"
-			]
-		},
-		{
-			"ShaderMapHash": "007DC7C2CF32F5F9BF363D4F11E8CA1AAF124559",
-			"Assets": [
-				"/Game/testLevels/test1_customMap"
-			]
-		},
-		{
 			"ShaderMapHash": "585FBC8412F000E3CF1D35F11CA37C3C39C7A9CE",
 			"Assets": [
 				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Larch/Larch_04"
@@ -1561,9 +1546,18 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C6CD2F62CB7862F5C74F96955335658BF4DDCBD6",
+			"ShaderMapHash": "BFB6F3C105C39089AF9A1766ADD5084B8C5C46A5",
 			"Assets": [
-				"/Game/PN_coniferBushes_I/Map/Showroom"
+				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_01",
+				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_02",
+				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_03",
+				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_04"
+			]
+		},
+		{
+			"ShaderMapHash": "B4FA40231D563B28614EDE87EFB0267B37FB85A5",
+			"Assets": [
+				"/Game/PN_coniferBushes_I/Materials/Material_Instances/Spruce/Spruce_05"
 			]
 		},
 		{
@@ -1578,147 +1572,6 @@
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial",
 				"/Game/A_Surface_Footstep/Environment_Assets/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E9FFCAA8D789B144F8F80C2F7AFD1B87B361CB9B",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_Dirt_Surface"
-			]
-		},
-		{
-			"ShaderMapHash": "C9EDA037F0DBB9B24527480FF36408F399CB9BD2",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_SpeckledDust"
-			]
-		},
-		{
-			"ShaderMapHash": "650797ED1F1128402A9916E33DD4718F732ACA48",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Shards_Mat_02",
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Shards_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "2CAB76E7105557CC38E7E67AA9A1CA5742C56A81",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_General_Leaf"
-			]
-		},
-		{
-			"ShaderMapHash": "30BE0D4C2487EA78D91643B8C7CEDE6998BC39D6",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_Leaves_bits"
-			]
-		},
-		{
-			"ShaderMapHash": "18139CA28FDC769D3F78A71B2EFFBCC6BB0550CB",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_ReflectiveSplash"
-			]
-		},
-		{
-			"ShaderMapHash": "99DD403EA2EF001A11C4447543300219F15C52B6",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Splash_SubUV"
-			]
-		},
-		{
-			"ShaderMapHash": "A43D849C5120F48E780ACB724CA47ACB2852E207",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_SolidDrop"
-			]
-		},
-		{
-			"ShaderMapHash": "94A8F41702BEEA157D982129E8375C1A920C4DCE",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_MistSnow"
-			]
-		},
-		{
-			"ShaderMapHash": "47C1D37E1388516E11A4C29120325E2CAF94F558",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_SnowSplash"
-			]
-		},
-		{
-			"ShaderMapHash": "F7CB70D32737EAF05CF6E208240D17C1C91763C5",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Refraction",
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_DomeRefract"
-			]
-		},
-		{
-			"ShaderMapHash": "8DA9C86E90ED7B7ED0B34568A75644ADEA88704E",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_whispOne_Master_directional_emissive"
-			]
-		},
-		{
-			"ShaderMapHash": "A27570797216123A3AC151E922F682B210C7F723",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_Flame"
-			]
-		},
-		{
-			"ShaderMapHash": "8E4A579D8FF3D69C28761F1B1882A4038F18D7C0",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_MuzzleFlash_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "DFC3903CF752BC2EA4863B4A3DBC18640403AF0B",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Radial_Gradient"
-			]
-		},
-		{
-			"ShaderMapHash": "630A5300697E65F6EC8C8230D5CEC5F73C884558",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Single_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "BF8D87837093AE91DEB47BE8BBD18FDB35F18807",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Burst1"
-			]
-		},
-		{
-			"ShaderMapHash": "C458A6CE45F270FFC28449FD8D39E8BD3C10C9F9",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_EnergySmoke_Inst"
-			]
-		},
-		{
-			"ShaderMapHash": "DEC5B4714B6C4C41F4F479925DC180651AFCDDE3",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Spark_sheet"
-			]
-		},
-		{
-			"ShaderMapHash": "1FAB4698AF21A14BE8285FE192B7A28B9FC8F6FD",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Splash_Refract"
-			]
-		},
-		{
-			"ShaderMapHash": "6F5ADB5A10047D21E3525B6CF6B04E7C43957DF6",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Environment_Assets/Materials/M_MaterialSphere"
-			]
-		},
-		{
-			"ShaderMapHash": "2DEB7A58B1879D2180E18891E38E3F83A03BE9B8",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Environment_Assets/Materials/M_MaterialSphere_Plain"
-			]
-		},
-		{
-			"ShaderMapHash": "84F3A6301681305D87612C8988CAFA03A975E0EF",
-			"Assets": [
-				"/Game/A_Surface_Footstep/Geometry/M_Bush",
-				"/Game/StarterContent/Props/Materials/M_Bush"
 			]
 		},
 		{
@@ -1783,15 +1636,150 @@
 			]
 		},
 		{
-			"ShaderMapHash": "11A5AC5B8F2C73EA203BCD0E059AFED8C4A48E91",
+			"ShaderMapHash": "C9EDA037F0DBB9B24527480FF36408F399CB9BD2",
 			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_SnowLight_Surface"
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_SpeckledDust"
 			]
 		},
 		{
-			"ShaderMapHash": "5F9445241D55D2FB19D976D884960D5EA90F530D",
+			"ShaderMapHash": "2CAB76E7105557CC38E7E67AA9A1CA5742C56A81",
 			"Assets": [
-				"/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_SnowLight_Surface"
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_General_Leaf"
+			]
+		},
+		{
+			"ShaderMapHash": "C6CD2F62CB7862F5C74F96955335658BF4DDCBD6",
+			"Assets": [
+				"/Game/PN_coniferBushes_I/Map/Showroom"
+			]
+		},
+		{
+			"ShaderMapHash": "E9FFCAA8D789B144F8F80C2F7AFD1B87B361CB9B",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_Dirt_Surface"
+			]
+		},
+		{
+			"ShaderMapHash": "650797ED1F1128402A9916E33DD4718F732ACA48",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Shards_Mat_02",
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Shards_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "30BE0D4C2487EA78D91643B8C7CEDE6998BC39D6",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_Leaves_bits"
+			]
+		},
+		{
+			"ShaderMapHash": "A43D849C5120F48E780ACB724CA47ACB2852E207",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_SolidDrop"
+			]
+		},
+		{
+			"ShaderMapHash": "18139CA28FDC769D3F78A71B2EFFBCC6BB0550CB",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_ReflectiveSplash"
+			]
+		},
+		{
+			"ShaderMapHash": "99DD403EA2EF001A11C4447543300219F15C52B6",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Splash_SubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "94A8F41702BEEA157D982129E8375C1A920C4DCE",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_MistSnow"
+			]
+		},
+		{
+			"ShaderMapHash": "47C1D37E1388516E11A4C29120325E2CAF94F558",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_SnowSplash"
+			]
+		},
+		{
+			"ShaderMapHash": "DFC3903CF752BC2EA4863B4A3DBC18640403AF0B",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "630A5300697E65F6EC8C8230D5CEC5F73C884558",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Single_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "8E4A579D8FF3D69C28761F1B1882A4038F18D7C0",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_MuzzleFlash_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "8DA9C86E90ED7B7ED0B34568A75644ADEA88704E",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_whispOne_Master_directional_emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "A27570797216123A3AC151E922F682B210C7F723",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_Flame"
+			]
+		},
+		{
+			"ShaderMapHash": "F7CB70D32737EAF05CF6E208240D17C1C91763C5",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Refraction",
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_DomeRefract"
+			]
+		},
+		{
+			"ShaderMapHash": "BF8D87837093AE91DEB47BE8BBD18FDB35F18807",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Burst1"
+			]
+		},
+		{
+			"ShaderMapHash": "DEC5B4714B6C4C41F4F479925DC180651AFCDDE3",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Spark_sheet"
+			]
+		},
+		{
+			"ShaderMapHash": "C458A6CE45F270FFC28449FD8D39E8BD3C10C9F9",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/MI_EnergySmoke_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "1FAB4698AF21A14BE8285FE192B7A28B9FC8F6FD",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/Materials/M_Splash_Refract"
+			]
+		},
+		{
+			"ShaderMapHash": "6F5ADB5A10047D21E3525B6CF6B04E7C43957DF6",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Environment_Assets/Materials/M_MaterialSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "2DEB7A58B1879D2180E18891E38E3F83A03BE9B8",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Environment_Assets/Materials/M_MaterialSphere_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "84F3A6301681305D87612C8988CAFA03A975E0EF",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Geometry/M_Bush",
+				"/Game/StarterContent/Props/Materials/M_Bush"
 			]
 		},
 		{
@@ -1840,6 +1828,18 @@
 			"ShaderMapHash": "6558610B9932BA8695D603F29265D405BFC038FF",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "11A5AC5B8F2C73EA203BCD0E059AFED8C4A48E91",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_SnowLight_Surface"
+			]
+		},
+		{
+			"ShaderMapHash": "5F9445241D55D2FB19D976D884960D5EA90F530D",
+			"Assets": [
+				"/Game/A_Surface_Footstep/Niagara_FX/ParticleSystems/PSN_SnowLight_Surface"
 			]
 		},
 		{

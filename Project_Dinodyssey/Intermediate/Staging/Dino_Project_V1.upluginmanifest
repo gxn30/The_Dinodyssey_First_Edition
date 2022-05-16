@@ -5,8 +5,8 @@
 			"Descriptor": 
 			{
 				"FileVersion": 3,
-				"Version": 2,
-				"VersionName": "0.11",
+				"Version": 5,
+				"VersionName": "2021.0.5",
 				"FriendlyName": "Bridge",
 				"Description": "Megascans Link for Quixel Bridge.",
 				"Category": "Editor",
@@ -18,7 +18,6 @@
 				"EngineVersion": "5.0.0",
 				"EnabledByDefault": true,
 				"CanContainContent": true,
-				"Installed": true,
 				"SupportedTargetPlatforms": [
 					"Win64",
 					"Mac",
